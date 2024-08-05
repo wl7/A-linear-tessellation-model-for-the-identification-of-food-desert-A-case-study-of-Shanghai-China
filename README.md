@@ -1,0 +1,1 @@
+The compressed files named “Data.rar” includes the experimental data and result data of a paper entitled “A linear tessellation model for the identification of ‘food desert’: A case study of Shanghai, China” which has been submitted to  journal of PLOS ONE.
